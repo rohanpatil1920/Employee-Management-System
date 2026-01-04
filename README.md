@@ -90,5 +90,5 @@ By building this project, you will strengthen your skills in:
 **Rohan Patil**  
 Java Developer | Java Spring Boot Enthusiast  
 
-- GitHub: [https://github.com/your-username](https://github.com/rohanpatil1920)  
-- LinkedIn: [https://www.linkedin.com/in/rohan-patil](https://www.linkedin.com/in/rohan-patil1920)
+- GitHub: [https://github.com/rohanpatil1920](https://github.com/rohanpatil1920)  
+- LinkedIn: [https://www.linkedin.com/in/rohan-patil1920](https://www.linkedin.com/in/rohan-patil1920)
